@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "cuid": "^2.1.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "normalize.css": "^8.0.1"
   }
 }
