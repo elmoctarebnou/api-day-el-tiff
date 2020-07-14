@@ -25,11 +25,11 @@
     "style-loader": "^1.0.0",
     "webpack": "^4.40.1",
     "webpack-cli": "^3.3.8",
-    "webpack-dev-server": "^3.8.0"
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
     "cuid": "^2.1.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.1",
     "normalize.css": "^8.0.1"
   }
 }
